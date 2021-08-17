@@ -12,9 +12,6 @@
 npm install react-icons --save
 ```
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+<i>npm install</i><br/>
+<i>npm start</i><br/>
+<a href="https://cranky-bohr-868f96.netlify.app/">Click here to view the project(Accordion)</a>
